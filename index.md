@@ -14,7 +14,7 @@
 - 阳哥推荐 [team of teams](https://book.douban.com/subject/27204181/)
 - 柴老师推荐 [Business Model Generation](https://book.douban.com/subject/4280621/)
 - 代老师推荐 [人类群星闪耀时](https://book.douban.com/subject/1201620/)
-- 严蕾推荐 [统计学习方法](https://book.douban.com/subject/10590856/)]
+- 严蕾推荐 [统计学习方法](https://book.douban.com/subject/10590856/)
 - 张军的推荐 [债务和魔鬼](https://book.douban.com/subject/26801676/)
 
 ## 菜单
